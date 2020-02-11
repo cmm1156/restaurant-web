@@ -1,0 +1,35 @@
+body {
+  background-color: ;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  background: #000000;
+}
+
+.column {
+  float: left;
+  padding: 10px;
+}
+
+
+
+.column.middle {
+  width: 700px;
+}
+
+
+nav {
+  display: block;
+}
+
+h1 {
+  text-align: 200px;
+  text-decoration: bold;
+}
+h2 {
+  text-align: 200px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+}
